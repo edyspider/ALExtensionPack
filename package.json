@@ -1,0 +1,37 @@
+{
+    "name": "alextensionpack",
+    "displayName": "ALExtensionPack",
+    "description": "Extensions for AL Code",
+    "publisher": "EdySpider",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.41.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "ms-dynamics-smb.al",
+        "ms-vscode.powershell",
+        "ms-azuretools.vscode-docker",
+        "rasmus.al-var-helper",
+        "rasmus.al-formatter",
+        "martonsagi.al-object-designer",
+        "bartpermentier.al-toolbox",
+        "andrzejzwierzchowski.al-code-outline",
+        "formulahendry.docker-explorer",
+        "eamodio.gitlens",
+        "donjayamanne.githistory",
+        "vscode-icons-team.vscode-icons",
+        "waldo.crs-al-language-extension",
+        "nwallace.createguid",
+        "coenraads.bracket-pair-colorizer-2",
+        "nikitakunevich.snippet-creator",
+        "rvanbekkum.xliff-sync"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/edyspider/ALExtensionPack"
+    },
+    "icon": "icon.png"
+}
