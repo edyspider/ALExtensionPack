@@ -2,36 +2,58 @@
 
 # AL Extension Pack
 
-This pack includes Visual Studio Code extensions that will help you work better with AL. 
+This pack includes extensions to improve your D365BC AL development.
+
+---
 
 ## Extensions
 
-The AL Extnsion Pack includes: 
+The AL Extnsion Pack includes:
 
-* [AL Language](ttps://marketplace.visualstudio.com/items?itemName=ms-dynamics-smb.al)
-* [PowerShell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell)
-* [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
-* [AL Variable Helper](https://marketplace.visualstudio.com/items?itemName=rasmus.al-var-helper)
 * [AL Formatter](https://marketplace.visualstudio.com/items?itemName=rasmus.al-formatter)
+* [AL Language](https://marketplace.visualstudio.com/items?itemName=ms-dynamics-smb.al)
 * [AL Object Designer](https://marketplace.visualstudio.com/items?itemName=martonsagi.al-object-designer)
 * [AL Toolbox](https://marketplace.visualstudio.com/items?itemName=BartPermentier.al-toolbox)
+* [AL Variable Helper](https://marketplace.visualstudio.com/items?itemName=rasmus.al-var-helper)
 * [AZ AL Dev Tools/AL Code Outline](https://marketplace.visualstudio.com/items?itemName=andrzejzwierzchowski.al-code-outline)
-* [Docker Explorer](https://marketplace.visualstudio.com/items?itemName=formulahendry.docker-explorer)
-* [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
-* [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
-* [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
-* [waldo's CRS AL Language Extension](https://marketplace.visualstudio.com/items?itemName=waldo.crs-al-language-extension)
-* [Create GUID](https://marketplace.visualstudio.com/items?itemName=nwallace.createGUID)
+* [Azure Repos](https://marketplace.visualstudio.com/items?itemName=ms-vsts.team)
 * [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
-* [snippet-creator](https://marketplace.visualstudio.com/items?itemName=nikitaKunevich.snippet-creator)
+* [Create GUID](https://marketplace.visualstudio.com/items?itemName=nwallace.createGUID)
+* [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
+* [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
+* [Docker Explorer](https://marketplace.visualstudio.com/items?itemName=formulahendry.docker-explorer)
+* [Dynamics NAV C/AL](https://marketplace.visualstudio.com/items?itemName=zodiacfireworks.vscode-c-al)
+* [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
+* [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+* [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
+* [PowerShell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell)
+* [Remote - Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
+* [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
+* [TSLint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin)
+* [VSCode-Icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
+* [Waldo's CRS AL Language Extension](https://marketplace.visualstudio.com/items?itemName=waldo.crs-al-language-extension)
 * [XLIFF Sync](https://marketplace.visualstudio.com/items?itemName=rvanbekkum.xliff-sync)
 
-## References
+---
+
+## Authors
+
+* [**EdySpider**](https://github.com/edyspider/)
+
+See also the list of [contributors](https://github.com/edyspider/ALExtensionPack/contributors) who participated in this project.
+
+---
+
+## License
+
+[![License](https://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+- **[MIT license](https://github.com/edyspider/ALExtensionPack/blob/master/LICENSE)**
+- Copyright 2020 © <a href="https://github.com/edyspider" target="_blank">EdySpider</a>.
+
+---
+
+## Credits
 
 * [thegeoffstevens](https://dev.to/thegeoffstevens/how-to-create-your-own-vs-code-extension-pack-nab)
-
-## Have a suggestion? 
-
-Submit a PR to the [GitHub repo](https://github.com/edyspider/ALExtensionPack). 
-
-**Enjoy!**
+* [Waldo](https://github.com/waldo1001)
