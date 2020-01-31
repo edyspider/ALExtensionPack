@@ -3,7 +3,7 @@
     "displayName": "AL Extension Pack",
     "description": "Extensions for D365BC AL development",
     "publisher": "EdySpider",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.41.0"
     },
@@ -15,6 +15,7 @@
         "BartPermentier.al-toolbox", 
         "CoenraadS.bracket-pair-colorizer-2", 
         "donjayamanne.githistory", 
+        "edyspider.alstructurecreator",
         "eamodio.gitlens", 
         "formulahendry.docker-explorer", 
         "humao.rest-client", 

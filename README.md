@@ -13,6 +13,7 @@ The AL Extnsion Pack includes:
 * [AL Formatter](https://marketplace.visualstudio.com/items?itemName=rasmus.al-formatter)
 * [AL Language](https://marketplace.visualstudio.com/items?itemName=ms-dynamics-smb.al)
 * [AL Object Designer](https://marketplace.visualstudio.com/items?itemName=martonsagi.al-object-designer)
+* [AL Structure Creator](https://marketplace.visualstudio.com/items?itemName=EdySpider.alstructurecreator)
 * [AL Toolbox](https://marketplace.visualstudio.com/items?itemName=BartPermentier.al-toolbox)
 * [AL Variable Helper](https://marketplace.visualstudio.com/items?itemName=rasmus.al-var-helper)
 * [AZ AL Dev Tools/AL Code Outline](https://marketplace.visualstudio.com/items?itemName=andrzejzwierzchowski.al-code-outline)
@@ -36,6 +37,22 @@ The AL Extnsion Pack includes:
 
 ---
 
+## Release Notes
+
+### 0.0.1
+
+Initial release.
+
+### 0.0.2
+
+Update documentation.
+
+### 0.0.3
+
+Include new extensions.
+
+---
+
 ## Authors
 
 * [**EdySpider**](https://github.com/edyspider/)
@@ -49,11 +66,11 @@ See also the list of [contributors](https://github.com/edyspider/ALExtensionPack
 [![License](https://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 - **[MIT license](https://github.com/edyspider/ALExtensionPack/blob/master/LICENSE)**
-- Copyright 2020 © <a href="https://github.com/edyspider" target="_blank">EdySpider</a>.
+- Copyright 2020 &copy; <a href="https://github.com/edyspider" target="_blank">EdySpider</a>.
 
 ---
 
 ## Credits
 
-* [thegeoffstevens](https://dev.to/thegeoffstevens/how-to-create-your-own-vs-code-extension-pack-nab)
+* [Thegeoffstevens](https://dev.to/thegeoffstevens/how-to-create-your-own-vs-code-extension-pack-nab)
 * [Waldo](https://github.com/waldo1001)
