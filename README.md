@@ -12,10 +12,13 @@ The AL Extnsion Pack includes:
 
 * [AL Formatter](https://marketplace.visualstudio.com/items?itemName=rasmus.al-formatter)
 * [AL Language](https://marketplace.visualstudio.com/items?itemName=ms-dynamics-smb.al)
+* [AL Navigator](https://marketplace.visualstudio.com/items?itemName=wbrakowski.al-navigator)
 * [AL Object Designer](https://marketplace.visualstudio.com/items?itemName=martonsagi.al-object-designer)
 * [AL Structure Creator](https://marketplace.visualstudio.com/items?itemName=EdySpider.alstructurecreator)
+* [AL Test Runner](https://marketplace.visualstudio.com/items?itemName=jamespearson.al-test-runner)
 * [AL Toolbox](https://marketplace.visualstudio.com/items?itemName=BartPermentier.al-toolbox)
 * [AL Variable Helper](https://marketplace.visualstudio.com/items?itemName=rasmus.al-var-helper)
+* [AL XML Documentation](https://marketplace.visualstudio.com/items?itemName=365businessdevelopment.bdev-al-xml-doc)
 * [AZ AL Dev Tools/AL Code Outline](https://marketplace.visualstudio.com/items?itemName=andrzejzwierzchowski.al-code-outline)
 * [Azure Repos](https://marketplace.visualstudio.com/items?itemName=ms-vsts.team)
 * [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
@@ -68,9 +71,3 @@ See also the list of [contributors](https://github.com/edyspider/ALExtensionPack
 - **[MIT license](https://github.com/edyspider/ALExtensionPack/blob/master/LICENSE)**
 - Copyright 2020 &copy; <a href="https://github.com/edyspider" target="_blank">EdySpider</a>.
 
----
-
-## Credits
-
-* [Thegeoffstevens](https://dev.to/thegeoffstevens/how-to-create-your-own-vs-code-extension-pack-nab)
-* [Waldo](https://github.com/waldo1001)

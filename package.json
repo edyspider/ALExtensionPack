@@ -3,14 +3,26 @@
     "displayName": "AL Extension Pack",
     "description": "Extensions for D365BC AL development",
     "publisher": "EdySpider",
-    "version": "0.0.3",
+    "version": "0.0.4",
+    "license": "MIT",
+    "bugs": {
+		"url": "https://github.com/edyspider/ALExtensionPack/issues"
+	},
     "engines": {
         "vscode": "^1.41.0"
     },
     "categories": [
         "Extension Packs"
     ],
+    "keywords": [
+		"AL",
+		"AL Extensions",
+		"Business Central",
+		"D365BC",
+		"Dynamics NAV"
+	],
     "extensionPack": [ 
+        "365businessdevelopment.bdev-al-xml-doc", 
         "andrzejzwierzchowski.al-code-outline", 
         "BartPermentier.al-toolbox", 
         "CoenraadS.bracket-pair-colorizer-2", 
@@ -19,6 +31,7 @@
         "eamodio.gitlens", 
         "formulahendry.docker-explorer", 
         "humao.rest-client", 
+        "jamespearson.al-test-runner", 
         "martonsagi.al-object-designer", 
         "ms-azuretools.vscode-docker", 
         "ms-dynamics-smb.al", 
@@ -34,6 +47,7 @@
         "rvanbekkum.xliff-sync", 
         "vscode-icons-team.vscode-icons", 
         "waldo.crs-al-language-extension", 
+        "wbrakowski.al-navigator", 
         "zodiacfireworks.vscode-c-al"
     ],
     "repository": {
