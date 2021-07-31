@@ -56,6 +56,12 @@ Include new extensions.
 
 ---
 
+### 0.0.4
+
+Include new extensions.
+
+---
+
 ## Authors
 
 * [**EdySpider**](https://github.com/edyspider/)
