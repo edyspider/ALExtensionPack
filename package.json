@@ -3,7 +3,7 @@
     "displayName": "AL Extension Pack",
     "description": "Extensions for D365BC AL development",
     "publisher": "EdySpider",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "license": "MIT",
     "bugs": {
 		"url": "https://github.com/edyspider/ALExtensionPack/issues"
@@ -23,9 +23,11 @@
 	],
     "extensionPack": [ 
         "365businessdevelopment.bdev-al-xml-doc", 
+        "aaron-bond.better-comments", 
         "andrzejzwierzchowski.al-code-outline", 
         "BartPermentier.al-toolbox", 
         "CoenraadS.bracket-pair-colorizer-2", 
+        "davidfeldhoff.al-codeactions", 
         "donjayamanne.githistory", 
         "edyspider.alstructurecreator",
         "eamodio.gitlens", 
@@ -45,6 +47,7 @@
         "rasmus.al-formatter", 
         "rasmus.al-var-helper", 
         "rvanbekkum.xliff-sync", 
+        "vjeko.vjeko-al-objid", 
         "vscode-icons-team.vscode-icons", 
         "waldo.crs-al-language-extension", 
         "wbrakowski.al-navigator", 

@@ -10,10 +10,12 @@ This pack includes extensions to improve your D365BC AL development.
 
 The AL Extnsion Pack includes:
 
+* [AL CodeActions](https://marketplace.visualstudio.com/items?itemName=davidfeldhoff.al-codeactions)
 * [AL Formatter](https://marketplace.visualstudio.com/items?itemName=rasmus.al-formatter)
 * [AL Language](https://marketplace.visualstudio.com/items?itemName=ms-dynamics-smb.al)
 * [AL Navigator](https://marketplace.visualstudio.com/items?itemName=wbrakowski.al-navigator)
 * [AL Object Designer](https://marketplace.visualstudio.com/items?itemName=martonsagi.al-object-designer)
+* [AL Object ID Ninja](https://marketplace.visualstudio.com/items?itemName=vjeko.vjeko-al-objid)
 * [AL Structure Creator](https://marketplace.visualstudio.com/items?itemName=EdySpider.alstructurecreator)
 * [AL Test Runner](https://marketplace.visualstudio.com/items?itemName=jamespearson.al-test-runner)
 * [AL Toolbox](https://marketplace.visualstudio.com/items?itemName=BartPermentier.al-toolbox)
@@ -21,6 +23,7 @@ The AL Extnsion Pack includes:
 * [AL XML Documentation](https://marketplace.visualstudio.com/items?itemName=365businessdevelopment.bdev-al-xml-doc)
 * [AZ AL Dev Tools/AL Code Outline](https://marketplace.visualstudio.com/items?itemName=andrzejzwierzchowski.al-code-outline)
 * [Azure Repos](https://marketplace.visualstudio.com/items?itemName=ms-vsts.team)
+* [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
 * [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
 * [Create GUID](https://marketplace.visualstudio.com/items?itemName=nwallace.createGUID)
 * [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
@@ -62,6 +65,12 @@ Include new extensions.
 
 ---
 
+### 0.0.5
+
+Include new extensions.
+
+---
+
 ## Authors
 
 * [**EdySpider**](https://github.com/edyspider/)
@@ -74,6 +83,5 @@ See also the list of [contributors](https://github.com/edyspider/ALExtensionPack
 
 [![License](https://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-- **[MIT license](https://github.com/edyspider/ALExtensionPack/blob/master/LICENSE)**
-- Copyright 2020 &copy; <a href="https://github.com/edyspider" target="_blank">EdySpider</a>.
-
+* **[MIT license](https://github.com/edyspider/ALExtensionPack/blob/master/LICENSE)**
+* Copyright 2020 &copy; <a href="https://github.com/edyspider" target="_blank">EdySpider</a>.
