@@ -3,7 +3,7 @@
     "displayName": "AL Extension Pack",
     "description": "Extensions for D365BC AL development",
     "publisher": "EdySpider",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "license": "MIT",
     "bugs": {
 		"url": "https://github.com/edyspider/ALExtensionPack/issues"
@@ -26,7 +26,6 @@
         "aaron-bond.better-comments", 
         "andrzejzwierzchowski.al-code-outline", 
         "BartPermentier.al-toolbox", 
-        "CoenraadS.bracket-pair-colorizer-2", 
         "davidfeldhoff.al-codeactions", 
         "donjayamanne.githistory", 
         "edyspider.alstructurecreator",

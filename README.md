@@ -24,7 +24,6 @@ The AL Extnsion Pack includes:
 * [AZ AL Dev Tools/AL Code Outline](https://marketplace.visualstudio.com/items?itemName=andrzejzwierzchowski.al-code-outline)
 * [Azure Repos](https://marketplace.visualstudio.com/items?itemName=ms-vsts.team)
 * [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
-* [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
 * [Create GUID](https://marketplace.visualstudio.com/items?itemName=nwallace.createGUID)
 * [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 * [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
@@ -45,29 +44,12 @@ The AL Extnsion Pack includes:
 
 ## Release Notes
 
-### 0.0.1
-
-Initial release.
-
-### 0.0.2
-
-Update documentation.
-
-### 0.0.3
-
-Include new extensions.
-
----
-
-### 0.0.4
-
-Include new extensions.
-
----
-
 ### 0.0.5
 
-Include new extensions.
+Remove outdated extensions.
+
+
+### View [Change Log](https://github.com/edyspider/ALExtensionPack/blob/master/CHANGELOG.md)
 
 ---
 
