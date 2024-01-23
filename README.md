@@ -8,7 +8,7 @@ This pack includes extensions to improve your Dynamics 365 Business Central AL d
 
 ## Extensions
 
-The AL Extnsion Pack includes:
+The AL Extension Pack includes:
 
 <table>
   <tr>
