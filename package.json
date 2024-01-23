@@ -3,7 +3,12 @@
     "displayName": "AL Extension Pack",
     "description": "Extensions for D365BC AL development",
     "publisher": "EdySpider",
-    "version": "0.0.6",
+	"icon": "logo/icon.png",
+    "author": {
+		"name": "EdySpider",
+		"url": "https://github.com/edyspider"
+	},
+    "version": "1.2.0",
     "license": "MIT",
     "bugs": {
 		"url": "https://github.com/edyspider/ALExtensionPack/issues"
@@ -26,22 +31,28 @@
         "aaron-bond.better-comments", 
         "andrzejzwierzchowski.al-code-outline", 
         "BartPermentier.al-toolbox", 
-        "davidfeldhoff.al-codeactions", 
+        "DavidAnson.vscode-markdownlint",
+        "davidfeldhoff.al-codeactions",
+        "docsmsft.docs-markdown",
+        "docsmsft.docs-preview",
+        "docsmsft.docs-yaml",
         "donjayamanne.githistory", 
         "edyspider.alstructurecreator",
         "eamodio.gitlens", 
         "formulahendry.docker-explorer", 
+        "heaths.vscode-guid",
         "humao.rest-client", 
         "jamespearson.al-test-runner", 
         "martonsagi.al-object-designer", 
         "ms-azuretools.vscode-docker", 
         "ms-dynamics-smb.al", 
+        "ms-dynamics-smb.bcpt",
         "ms-vscode-remote.remote-containers", 
         "ms-vscode.powershell", 
         "ms-vscode.vscode-typescript-tslint-plugin", 
         "ms-vsliveshare.vsliveshare", 
         "ms-vsts.team", 
-        "msjsdiag.debugger-for-chrome", 
+        "nabsolutions.nab-al-tools",
         "nwallace.createGUID", 
         "rasmus.al-formatter", 
         "rasmus.al-var-helper", 
@@ -49,12 +60,10 @@
         "vjeko.vjeko-al-objid", 
         "vscode-icons-team.vscode-icons", 
         "waldo.crs-al-language-extension", 
-        "wbrakowski.al-navigator", 
-        "zodiacfireworks.vscode-c-al"
+        "wbrakowski.al-navigator"
     ],
     "repository": {
         "type": "git",
         "url": "https://github.com/edyspider/ALExtensionPack"
-    },
-    "icon": "icon.png"
+    }
 }
