@@ -588,6 +588,24 @@ The AL Extension Pack includes:
     </td>
   </tr>
   <tr>
+    <td>VSCode Project Folder Management</td>
+    <td>
+        <a href="https://marketplace.visualstudio.com/publishers/EdySpider">
+          <img alt="Visual Studio Publisher" src="https://img.shields.io/badge/publisher-EdySpider-orange">
+        </a>
+    </td>
+    <td>
+        <a href="https://marketplace.visualstudio.com/items?itemName=EdySpider.vscodeprojectfoldermanagement">
+          <img alt="Visual Studio Marketplace Installs" src="https://img.shields.io/visual-studio-marketplace/i/EdySpider.vscodeprojectfoldermanagement">
+        </a>
+    </td>
+    <td>
+        <a href="https://marketplace.visualstudio.com/items?itemName=EdySpider.vscodeprojectfoldermanagement">
+          <img alt="Visual Studio Marketplace Version" src="https://img.shields.io/visual-studio-marketplace/v/EdySpider.vscodeprojectfoldermanagement">
+        </a>
+    </td>
+  </tr>
+  <tr>
     <td>Waldo's CRS AL Language Extension</td>
     <td>
         <a href="https://marketplace.visualstudio.com/publishers/waldo">
