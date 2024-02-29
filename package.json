@@ -8,7 +8,7 @@
 		"name": "EdySpider",
 		"url": "https://github.com/edyspider"
 	},
-    "version": "1.2.2",
+    "version": "1.3.0",
     "license": "MIT",
     "bugs": {
 		"url": "https://github.com/edyspider/ALExtensionPack/issues"
@@ -27,7 +27,6 @@
 		"Dynamics NAV"
 	],
     "extensionPack": [ 
-        "365businessdevelopment.bdev-al-xml-doc", 
         "aaron-bond.better-comments", 
         "andrzejzwierzchowski.al-code-outline", 
         "BartPermentier.al-toolbox", 
@@ -38,6 +37,7 @@
         "docsmsft.docs-yaml",
         "donjayamanne.githistory", 
         "edyspider.alstructurecreator",
+        "edyspider.allaunchmanagement",
         "edyspider.vscodeprojectfoldermanagement",
         "eamodio.gitlens", 
         "formulahendry.docker-explorer", 
