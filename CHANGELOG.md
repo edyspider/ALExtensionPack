@@ -4,6 +4,11 @@ All notable changes to the **AL Extension Pack** extension will be documented in
 
 ----
 
+## 1.3.0
+
+Remove outdated extensions.
+Include new extensions.
+
 ## 1.2.0
 
 Remove outdated extensions.

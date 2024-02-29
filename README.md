@@ -1,6 +1,11 @@
-![Banner](icon.png)
+#
 
-# AL Extension Pack
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/edyspider/ALExtensionPack/master/icon.png"
+    align="center" alt="GitHub Readme Stats" />
+  <h1 align="center">AL Extension Pack</h1>
+</p>
 
 This pack includes extensions to improve your Dynamics 365 Business Central AL development.
 
@@ -15,17 +20,20 @@ The AL Extension Pack includes:
     <td>AL CodeActions</td>
     <td>
         <a href="https://marketplace.visualstudio.com/publishers/davidfeldhoff">
-          <img alt="Visual Studio Publisher" src="https://img.shields.io/badge/publisher-David Feldhoff-orange">
+          <img alt="Visual Studio Publisher"
+            src="https://img.shields.io/badge/publisher-David Feldhoff-orange">
         </a>
     </td>
     <td>
         <a href="https://marketplace.visualstudio.com/items?itemName=davidfeldhoff.al-codeactions">
-          <img alt="Visual Studio Marketplace Installs" src="https://img.shields.io/visual-studio-marketplace/i/davidfeldhoff.al-codeactions">
+          <img alt="Visual Studio Marketplace Installs"
+            src="https://img.shields.io/visual-studio-marketplace/i/davidfeldhoff.al-codeactions">
         </a>
     </td>
     <td>
         <a href="https://marketplace.visualstudio.com/items?itemName=davidfeldhoff.al-codeactions">
-          <img alt="Visual Studio Marketplace Version" src="https://img.shields.io/visual-studio-marketplace/v/davidfeldhoff.al-codeactions">
+          <img alt="Visual Studio Marketplace Version"
+            src="https://img.shields.io/visual-studio-marketplace/v/davidfeldhoff.al-codeactions">
         </a>
     </td>
   </tr>
@@ -33,17 +41,20 @@ The AL Extension Pack includes:
     <td>AL Formatter</td>
     <td>
         <a href="https://marketplace.visualstudio.com/publishers/rasmus">
-          <img alt="Visual Studio Publisher" src="https://img.shields.io/badge/publisher-Rasmus Aaen-orange">
+          <img alt="Visual Studio Publisher"
+            src="https://img.shields.io/badge/publisher-Rasmus Aaen-orange">
         </a>
     </td>
     <td>
         <a href="https://marketplace.visualstudio.com/items?itemName=rasmus.al-formatter">
-          <img alt="Visual Studio Marketplace Installs" src="https://img.shields.io/visual-studio-marketplace/i/rasmus.al-formatter">
+          <img alt="Visual Studio Marketplace Installs"
+            src="https://img.shields.io/visual-studio-marketplace/i/rasmus.al-formatter">
         </a>
     </td>
     <td>
         <a href="https://marketplace.visualstudio.com/items?itemName=rasmus.al-formatter">
-          <img alt="Visual Studio Marketplace Version" src="https://img.shields.io/visual-studio-marketplace/v/rasmus.al-formatter">
+          <img alt="Visual Studio Marketplace Version"
+            src="https://img.shields.io/visual-studio-marketplace/v/rasmus.al-formatter">
         </a>
     </td>
   </tr>
@@ -51,17 +62,41 @@ The AL Extension Pack includes:
     <td>AL Language</td>
     <td>
         <a href="https://marketplace.visualstudio.com/publishers/ms-dynamics-smb">
-          <img alt="Visual Studio Publisher" src="https://img.shields.io/badge/publisher-Micorostf-orange">
+          <img alt="Visual Studio Publisher"
+            src="https://img.shields.io/badge/publisher-Micorostf-orange">
         </a>
     </td>
     <td>
         <a href="https://marketplace.visualstudio.com/items?itemName=ms-dynamics-smb.al">
-          <img alt="Visual Studio Marketplace Installs" src="https://img.shields.io/visual-studio-marketplace/i/ms-dynamics-smb.al">
+          <img alt="Visual Studio Marketplace Installs"
+            src="https://img.shields.io/visual-studio-marketplace/i/ms-dynamics-smb.al">
         </a>
     </td>
     <td>
         <a href="https://marketplace.visualstudio.com/items?itemName=ms-dynamics-smb.al">
-          <img alt="Visual Studio Marketplace Version" src="https://img.shields.io/visual-studio-marketplace/v/ms-dynamics-smb.al">
+          <img alt="Visual Studio Marketplace Version"
+            src="https://img.shields.io/visual-studio-marketplace/v/ms-dynamics-smb.al">
+        </a>
+    </td>
+  </tr>
+  <tr>
+    <td>AL Launch Management</td>
+    <td>
+        <a href="https://marketplace.visualstudio.com/publishers/edyspider">
+          <img alt="Visual Studio Publisher"
+            src="https://img.shields.io/badge/publisher-EdySpider-orange">
+        </a>
+    </td>
+    <td>
+        <a href="https://marketplace.visualstudio.com/items?itemName=edyspider.allaunchmanagement">
+          <img alt="Visual Studio Marketplace Installs"
+            src="https://img.shields.io/visual-studio-marketplace/i/edyspider.allaunchmanagement">
+        </a>
+    </td>
+    <td>
+        <a href="https://marketplace.visualstudio.com/items?itemName=edyspider.allaunchmanagement">
+          <img alt="Visual Studio Marketplace Version"
+            src="https://img.shields.io/visual-studio-marketplace/v/edyspider.allaunchmanagement">
         </a>
     </td>
   </tr>
@@ -69,17 +104,20 @@ The AL Extension Pack includes:
     <td>AL Navigator</td>
     <td>
         <a href="https://marketplace.visualstudio.com/publishers/wbrakowski">
-          <img alt="Visual Studio Publisher" src="https://img.shields.io/badge/publisher-Waldemar Brakowski-orange">
+          <img alt="Visual Studio Publisher"
+            src="https://img.shields.io/badge/publisher-Waldemar Brakowski-orange">
         </a>
     </td>
     <td>
         <a href="https://marketplace.visualstudio.com/items?itemName=wbrakowski.al-navigator">
-          <img alt="Visual Studio Marketplace Installs" src="https://img.shields.io/visual-studio-marketplace/i/wbrakowski.al-navigator">
+          <img alt="Visual Studio Marketplace Installs"
+            src="https://img.shields.io/visual-studio-marketplace/i/wbrakowski.al-navigator">
         </a>
     </td>
     <td>
         <a href="https://marketplace.visualstudio.com/items?itemName=wbrakowski.al-navigator">
-          <img alt="Visual Studio Marketplace Version" src="https://img.shields.io/visual-studio-marketplace/v/wbrakowski.al-navigator">
+          <img alt="Visual Studio Marketplace Version"
+            src="https://img.shields.io/visual-studio-marketplace/v/wbrakowski.al-navigator">
         </a>
     </td>
   </tr>
@@ -87,17 +125,20 @@ The AL Extension Pack includes:
     <td>AL Object Designer</td>
     <td>
         <a href="https://marketplace.visualstudio.com/publishers/martonsagi">
-          <img alt="Visual Studio Publisher" src="https://img.shields.io/badge/publisher-Márton Sági-orange">
+          <img alt="Visual Studio Publisher"
+            src="https://img.shields.io/badge/publisher-Márton Sági-orange">
         </a>
     </td>
     <td>
         <a href="https://marketplace.visualstudio.com/items?itemName=martonsagi.al-object-designer">
-          <img alt="Visual Studio Marketplace Installs" src="https://img.shields.io/visual-studio-marketplace/i/martonsagi.al-object-designer">
+          <img alt="Visual Studio Marketplace Installs"
+            src="https://img.shields.io/visual-studio-marketplace/i/martonsagi.al-object-designer">
         </a>
     </td>
     <td>
         <a href="https://marketplace.visualstudio.com/items?itemName=martonsagi.al-object-designer">
-          <img alt="Visual Studio Marketplace Version" src="https://img.shields.io/visual-studio-marketplace/v/martonsagi.al-object-designer">
+          <img alt="Visual Studio Marketplace Version"
+            src="https://img.shields.io/visual-studio-marketplace/v/martonsagi.al-object-designer">
         </a>
     </td>
   </tr>
@@ -105,17 +146,20 @@ The AL Extension Pack includes:
     <td>AL Object ID Ninja</td>
     <td>
         <a href="https://marketplace.visualstudio.com/publishers/vjeko">
-          <img alt="Visual Studio Publisher" src="https://img.shields.io/badge/publisher-Vjeko.com-orange">
+          <img alt="Visual Studio Publisher"
+            src="https://img.shields.io/badge/publisher-Vjeko.com-orange">
         </a>
     </td>
     <td>
         <a href="https://marketplace.visualstudio.com/items?itemName=vjeko.vjeko-al-objid">
-          <img alt="Visual Studio Marketplace Installs" src="https://img.shields.io/visual-studio-marketplace/i/vjeko.vjeko-al-objid">
+          <img alt="Visual Studio Marketplace Installs"
+            src="https://img.shields.io/visual-studio-marketplace/i/vjeko.vjeko-al-objid">
         </a>
     </td>
     <td>
         <a href="https://marketplace.visualstudio.com/items?itemName=vjeko.vjeko-al-objid">
-          <img alt="Visual Studio Marketplace Version" src="https://img.shields.io/visual-studio-marketplace/v/vjeko.vjeko-al-objid">
+          <img alt="Visual Studio Marketplace Version"
+            src="https://img.shields.io/visual-studio-marketplace/v/vjeko.vjeko-al-objid">
         </a>
     </td>
   </tr>
@@ -123,17 +167,20 @@ The AL Extension Pack includes:
     <td>AL Structure Creator</td>
     <td>
         <a href="https://marketplace.visualstudio.com/publishers/EdySpider">
-          <img alt="Visual Studio Publisher" src="https://img.shields.io/badge/publisher-EdySpider-orange">
+          <img alt="Visual Studio Publisher"
+            src="https://img.shields.io/badge/publisher-EdySpider-orange">
         </a>
     </td>
     <td>
         <a href="https://marketplace.visualstudio.com/items?itemName=EdySpider.alstructurecreator">
-          <img alt="Visual Studio Marketplace Installs" src="https://img.shields.io/visual-studio-marketplace/i/EdySpider.alstructurecreator">
+          <img alt="Visual Studio Marketplace Installs"
+            src="https://img.shields.io/visual-studio-marketplace/i/EdySpider.alstructurecreator">
         </a>
     </td>
     <td>
         <a href="https://marketplace.visualstudio.com/items?itemName=EdySpider.alstructurecreator">
-          <img alt="Visual Studio Marketplace Version" src="https://img.shields.io/visual-studio-marketplace/v/EdySpider.alstructurecreator">
+          <img alt="Visual Studio Marketplace Version"
+            src="https://img.shields.io/visual-studio-marketplace/v/EdySpider.alstructurecreator">
         </a>
     </td>
   </tr>
@@ -141,17 +188,20 @@ The AL Extension Pack includes:
     <td>AL Test Runner</td>
     <td>
         <a href="https://marketplace.visualstudio.com/publishers/jamespearson">
-          <img alt="Visual Studio Publisher" src="https://img.shields.io/badge/publisher-James Pearson-orange">
+          <img alt="Visual Studio Publisher"
+            src="https://img.shields.io/badge/publisher-James Pearson-orange">
         </a>
     </td>
     <td>
         <a href="https://marketplace.visualstudio.com/items?itemName=jamespearson.al-test-runner">
-          <img alt="Visual Studio Marketplace Installs" src="https://img.shields.io/visual-studio-marketplace/i/jamespearson.al-test-runner">
+          <img alt="Visual Studio Marketplace Installs"
+            src="https://img.shields.io/visual-studio-marketplace/i/jamespearson.al-test-runner">
         </a>
     </td>
     <td>
         <a href="https://marketplace.visualstudio.com/items?itemName=jamespearson.al-test-runner">
-          <img alt="Visual Studio Marketplace Version" src="https://img.shields.io/visual-studio-marketplace/v/jamespearson.al-test-runner">
+          <img alt="Visual Studio Marketplace Version"
+            src="https://img.shields.io/visual-studio-marketplace/v/jamespearson.al-test-runner">
         </a>
     </td>
   </tr>
@@ -159,17 +209,20 @@ The AL Extension Pack includes:
     <td>AL Toolbox</td>
     <td>
         <a href="https://marketplace.visualstudio.com/publishers/BartPermentier">
-          <img alt="Visual Studio Publisher" src="https://img.shields.io/badge/publisher-Bart Permentier-orange">
+          <img alt="Visual Studio Publisher"
+            src="https://img.shields.io/badge/publisher-Bart Permentier-orange">
         </a>
     </td>
     <td>
         <a href="https://marketplace.visualstudio.com/items?itemName=BartPermentier.al-toolbox">
-          <img alt="Visual Studio Marketplace Installs" src="https://img.shields.io/visual-studio-marketplace/i/BartPermentier.al-toolbox">
+          <img alt="Visual Studio Marketplace Installs"
+            src="https://img.shields.io/visual-studio-marketplace/i/BartPermentier.al-toolbox">
         </a>
     </td>
     <td>
         <a href="https://marketplace.visualstudio.com/items?itemName=BartPermentier.al-toolbox">
-          <img alt="Visual Studio Marketplace Version" src="https://img.shields.io/visual-studio-marketplace/v/BartPermentier.al-toolbox">
+          <img alt="Visual Studio Marketplace Version"
+            src="https://img.shields.io/visual-studio-marketplace/v/BartPermentier.al-toolbox">
         </a>
     </td>
   </tr>
@@ -177,35 +230,20 @@ The AL Extension Pack includes:
     <td>AL Variable Helper</td>
     <td>
         <a href="https://marketplace.visualstudio.com/publishers/rasmus">
-          <img alt="Visual Studio Publisher" src="https://img.shields.io/badge/publisher-Rasmus Aaen-orange">
+          <img alt="Visual Studio Publisher"
+            src="https://img.shields.io/badge/publisher-Rasmus Aaen-orange">
         </a>
     </td>
     <td>
         <a href="https://marketplace.visualstudio.com/items?itemName=rasmus.al-var-helper">
-          <img alt="Visual Studio Marketplace Installs" src="https://img.shields.io/visual-studio-marketplace/i/rasmus.al-var-helper">
+          <img alt="Visual Studio Marketplace Installs"
+            src="https://img.shields.io/visual-studio-marketplace/i/rasmus.al-var-helper">
         </a>
     </td>
     <td>
         <a href="https://marketplace.visualstudio.com/items?itemName=rasmus.al-var-helper">
-          <img alt="Visual Studio Marketplace Version" src="https://img.shields.io/visual-studio-marketplace/v/rasmus.al-var-helper">
-        </a>
-    </td>
-  </tr>
-  <tr>
-    <td>AL XML Documentation</td>
-    <td>
-        <a href="https://marketplace.visualstudio.com/publishers/365businessdevelopment">
-          <img alt="Visual Studio Publisher" src="https://img.shields.io/badge/publisher-365 business development-orange">
-        </a>
-    </td>
-    <td>
-        <a href="https://marketplace.visualstudio.com/items?itemName=365businessdevelopment.bdev-al-xml-doc">
-          <img alt="Visual Studio Marketplace Installs" src="https://img.shields.io/visual-studio-marketplace/i/365businessdevelopment.bdev-al-xml-doc">
-        </a>
-    </td>
-    <td>
-        <a href="https://marketplace.visualstudio.com/items?itemName=365businessdevelopment.bdev-al-xml-doc">
-          <img alt="Visual Studio Marketplace Version" src="https://img.shields.io/visual-studio-marketplace/v/365businessdevelopment.bdev-al-xml-doc">
+          <img alt="Visual Studio Marketplace Version"
+            src="https://img.shields.io/visual-studio-marketplace/v/rasmus.al-var-helper">
         </a>
     </td>
   </tr>
@@ -213,17 +251,20 @@ The AL Extension Pack includes:
     <td>AZ AL Dev Tools/AL Code Outline</td>
     <td>
         <a href="https://marketplace.visualstudio.com/publishers/andrzejzwierzchowski">
-          <img alt="Visual Studio Publisher" src="https://img.shields.io/badge/publisher-Andrzej Zwierzchowski-orange">
+          <img alt="Visual Studio Publisher"
+            src="https://img.shields.io/badge/publisher-Andrzej Zwierzchowski-orange">
         </a>
     </td>
     <td>
         <a href="https://marketplace.visualstudio.com/items?itemName=andrzejzwierzchowski.al-code-outline">
-          <img alt="Visual Studio Marketplace Installs" src="https://img.shields.io/visual-studio-marketplace/i/andrzejzwierzchowski.al-code-outline">
+          <img alt="Visual Studio Marketplace Installs"
+            src="https://img.shields.io/visual-studio-marketplace/i/andrzejzwierzchowski.al-code-outline">
         </a>
     </td>
     <td>
         <a href="https://marketplace.visualstudio.com/items?itemName=andrzejzwierzchowski.al-code-outline">
-          <img alt="Visual Studio Marketplace Version" src="https://img.shields.io/visual-studio-marketplace/v/andrzejzwierzchowski.al-code-outline">
+          <img alt="Visual Studio Marketplace Version"
+            src="https://img.shields.io/visual-studio-marketplace/v/andrzejzwierzchowski.al-code-outline">
         </a>
     </td>
   </tr>
@@ -231,17 +272,20 @@ The AL Extension Pack includes:
     <td>Azure Repos</td>
     <td>
         <a href="https://marketplace.visualstudio.com/publishers/ms-vsts.team">
-          <img alt="Visual Studio Publisher" src="https://img.shields.io/badge/publisher-Microsoft-orange">
+          <img alt="Visual Studio Publisher"
+            src="https://img.shields.io/badge/publisher-Microsoft-orange">
         </a>
     </td>
     <td>
         <a href="https://marketplace.visualstudio.com/items?itemName=ms-vsts.team">
-          <img alt="Visual Studio Marketplace Installs" src="https://img.shields.io/visual-studio-marketplace/i/ms-vsts.team">
+          <img alt="Visual Studio Marketplace Installs"
+            src="https://img.shields.io/visual-studio-marketplace/i/ms-vsts.team">
         </a>
     </td>
     <td>
         <a href="https://marketplace.visualstudio.com/items?itemName=ms-vsts.team">
-          <img alt="Visual Studio Marketplace Version" src="https://img.shields.io/visual-studio-marketplace/v/ms-vsts.team">
+          <img alt="Visual Studio Marketplace Version"
+            src="https://img.shields.io/visual-studio-marketplace/v/ms-vsts.team">
         </a>
     </td>
   </tr>
@@ -249,17 +293,20 @@ The AL Extension Pack includes:
     <td>Better Comments</td>
     <td>
         <a href="https://marketplace.visualstudio.com/publishers/aaron-bond">
-          <img alt="Visual Studio Publisher" src="https://img.shields.io/badge/publisher-Aaron Bond-orange">
+          <img alt="Visual Studio Publisher"
+            src="https://img.shields.io/badge/publisher-Aaron Bond-orange">
         </a>
     </td>
     <td>
         <a href="https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments">
-          <img alt="Visual Studio Marketplace Installs" src="https://img.shields.io/visual-studio-marketplace/i/aaron-bond.better-comments">
+          <img alt="Visual Studio Marketplace Installs"
+            src="https://img.shields.io/visual-studio-marketplace/i/aaron-bond.better-comments">
         </a>
     </td>
     <td>
         <a href="https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments">
-          <img alt="Visual Studio Marketplace Version" src="https://img.shields.io/visual-studio-marketplace/v/aaron-bond.better-comments">
+          <img alt="Visual Studio Marketplace Version"
+            src="https://img.shields.io/visual-studio-marketplace/v/aaron-bond.better-comments">
         </a>
     </td>
   </tr>
@@ -303,17 +350,20 @@ The AL Extension Pack includes:
     <td>Docker Explorer</td>
     <td>
         <a href="https://marketplace.visualstudio.com/publishers/formulahendry">
-          <img alt="Visual Studio Publisher" src="https://img.shields.io/badge/publisher-Jun Han-orange">
+          <img alt="Visual Studio Publisher"
+            src="https://img.shields.io/badge/publisher-Jun Han-orange">
         </a>
     </td>
     <td>
         <a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.docker-explorer">
-          <img alt="Visual Studio Marketplace Installs" src="https://img.shields.io/visual-studio-marketplace/i/formulahendry.docker-explorer">
+          <img alt="Visual Studio Marketplace Installs"
+            src="https://img.shields.io/visual-studio-marketplace/i/formulahendry.docker-explorer">
         </a>
     </td>
     <td>
         <a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.docker-explorer">
-          <img alt="Visual Studio Marketplace Version" src="https://img.shields.io/visual-studio-marketplace/v/formulahendry.docker-explorer">
+          <img alt="Visual Studio Marketplace Version"
+            src="https://img.shields.io/visual-studio-marketplace/v/formulahendry.docker-explorer">
         </a>
     </td>
   </tr>
@@ -321,7 +371,8 @@ The AL Extension Pack includes:
     <td>Git History</td>
     <td>
         <a href="https://marketplace.visualstudio.com/publishers/donjayamanne">
-          <img alt="Visual Studio Publisher" src="https://img.shields.io/badge/publisher-Don Jayamanne-orange">
+          <img alt="Visual Studio Publisher"
+            src="https://img.shields.io/badge/publisher-Don Jayamanne-orange">
         </a>
     </td>
     <td>
@@ -357,7 +408,8 @@ The AL Extension Pack includes:
     <td>Insert GUID</td>
     <td>
         <a href="https://marketplace.visualstudio.com/publishers/heaths">
-          <img alt="Visual Studio Publisher" src="https://img.shields.io/badge/publisher-Heath Stewart-orange">
+          <img alt="Visual Studio Publisher"
+            src="https://img.shields.io/badge/publisher-Heath Stewart-orange">
         </a>
     </td>
     <td>
@@ -447,7 +499,8 @@ The AL Extension Pack includes:
     <td>Markdownlint</td>
     <td>
         <a href="https://marketplace.visualstudio.com/publishers/DavidAnson">
-          <img alt="Visual Studio Publisher" src="https://img.shields.io/badge/publisher-David Anson-orange">
+          <img alt="Visual Studio Publisher"
+            src="https://img.shields.io/badge/publisher-David Anson-orange">
         </a>
     </td>
     <td>
@@ -465,7 +518,8 @@ The AL Extension Pack includes:
     <td>NAB AL Tools</td>
     <td>
         <a href="https://marketplace.visualstudio.com/publishers/nabsolutions">
-          <img alt="Visual Studio Publisher" src="https://img.shields.io/badge/publisher-NAB Solutions AB-orange">
+          <img alt="Visual Studio Publisher"
+            src="https://img.shields.io/badge/publisher-NAB Solutions AB-orange">
         </a>
     </td>
     <td>
@@ -537,7 +591,8 @@ The AL Extension Pack includes:
     <td>REST Client</td>
     <td>
         <a href="https://marketplace.visualstudio.com/publishers/humao">
-          <img alt="Visual Studio Publisher" src="https://img.shields.io/badge/publisher-Huachao Mao-orange">
+          <img alt="Visual Studio Publisher"
+            src="https://img.shields.io/badge/publisher-Huachao Mao-orange">
         </a>
     </td>
     <td>
@@ -573,7 +628,8 @@ The AL Extension Pack includes:
     <td>VSCode-Icons</td>
     <td>
         <a href="https://marketplace.visualstudio.com/publishers/vscode-icons-team">
-          <img alt="Visual Studio Publisher" src="https://img.shields.io/badge/publisher-VSCode Icons Team-orange">
+          <img alt="Visual Studio Publisher"
+            src="https://img.shields.io/badge/publisher-VSCode Icons Team-orange">
         </a>
     </td>
     <td>
@@ -627,7 +683,8 @@ The AL Extension Pack includes:
     <td>XLIFF Sync</td>
     <td>
         <a href="https://marketplace.visualstudio.com/publishers/rvanbekkum">
-          <img alt="Visual Studio Publisher" src="https://img.shields.io/badge/publisher-Rob Van Bekkum-orange">
+          <img alt="Visual Studio Publisher"
+            src="https://img.shields.io/badge/publisher-Rob Van Bekkum-orange">
         </a>
     </td>
     <td>
@@ -647,20 +704,19 @@ The AL Extension Pack includes:
 
 ## Release Notes
 
-### 1.2.0
+### 1.3.0
 
 Remove outdated extensions.
 Include new extensions.
-
-### View [Change Log](https://github.com/edyspider/ALExtensionPack/blob/master/CHANGELOG.md)
 
 ---
 
 ## Authors
 
-* [**EdySpider**](https://github.com/edyspider/)
+- [**EdySpider**](https://github.com/edyspider/)
 
-See also the list of [contributors](https://github.com/edyspider/ALExtensionPack/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/edyspider/ALExtensionPack/contributors)
+who participated in this project.
 
 ---
 
@@ -668,5 +724,5 @@ See also the list of [contributors](https://github.com/edyspider/ALExtensionPack
 
 [![License](https://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-* **[MIT license](https://github.com/edyspider/ALExtensionPack/blob/master/LICENSE)**
-* Copyright 2020 &copy; <a href="https://github.com/edyspider" target="_blank">EdySpider</a>.
+- **[MIT license](https://github.com/edyspider/ALExtensionPack/blob/master/LICENSE)**
+- Copyright 2020 &copy; <a href="https://github.com/edyspider" target="_blank">EdySpider</a>.
